@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@quasar/extras": "^1.11.2",
+    "@quasar/extras": "^1.12.2",
     "core-js": "^3.18.3",
     "quasar": "^2.2.0"
   },
